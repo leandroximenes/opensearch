@@ -5,16 +5,14 @@ Prerequisites
 
 Make sure you have Docker and Docker Compose installed on your system.
 
-    Docker Installation Guide
-    Docker Compose Installation Guide
+* Docker Installation Guide
+* Docker Compose Installation Guide
 
 # Usage
 ## Setup
 
-    Clone the repository: https://github.com/leandroximenes/opensearch
-
-git clone <repository-url>
-cd <repository-name>
+    git clone https://github.com/leandroximenes/opensearch
+    cd opensearch
 
 Start the containers defined in docker-compose.yml:
 
